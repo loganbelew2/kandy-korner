@@ -1,0 +1,17 @@
+.products {
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(240, 73%, 75%);
+    width: 75%;
+}
+.product {
+border: 5px solid black;
+margin: 5px;
+background-color: aqua;
+}
+
+.products h2 {
+ border: 5px solid black;
+margin: 5px;
+background-color: aqua;
+}
